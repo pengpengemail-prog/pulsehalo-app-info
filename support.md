@@ -1,10 +1,10 @@
-# PulseHalo Support
+# TAME PulseHalo Support
 
 Last updated: April 30, 2026
 
 ## 1. Product scope
 
-PulseHalo is an ambient nighttime utility app focused on:
+TAME PulseHalo is an ambient nighttime utility app focused on:
 
 - night mode selection
 - timed playback
@@ -22,7 +22,7 @@ No. The current version does not require account creation or sign in to access t
 
 ### Does the app make medical or guaranteed claims?
 
-No. PulseHalo is positioned as an ambient nighttime utility. It does not claim medical efficacy, certified scientific measurement, guaranteed real-world outcomes, or replacement of physical protection products.
+No. TAME PulseHalo is positioned as an ambient nighttime utility. It does not claim medical efficacy, certified scientific measurement, guaranteed real-world outcomes, or replacement of physical protection products.
 
 ### How are subscriptions handled?
 
