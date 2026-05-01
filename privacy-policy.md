@@ -1,18 +1,18 @@
-# Privacy Policy for PulseHalo
+# Privacy Policy for TAME PulseHalo
 
 Effective date: April 30, 2026
 
 ## 1. Overview
 
-PulseHalo respects your privacy. This Privacy Policy explains how information is handled when you use the current version of the PulseHalo iOS app.
+TAME PulseHalo respects your privacy. This Privacy Policy explains how information is handled when you use the current version of the TAME PulseHalo iOS app.
 
-PulseHalo is positioned as an ambient nighttime utility focused on mode selection, timed playback, scene-based guidance, and local usage records.
+TAME PulseHalo is positioned as an ambient nighttime utility focused on mode selection, timed playback, scene-based guidance, and local usage records.
 
 The current version does not require account creation to access the core app experience.
 
 ## 2. Information stored in the app
 
-In the current version, PulseHalo may store app-related preferences locally on your device, such as:
+In the current version, TAME PulseHalo may store app-related preferences locally on your device, such as:
 
 - selected mode or preset
 - timer duration
@@ -24,7 +24,7 @@ This information is intended to support the in-app experience on your device.
 
 ## 3. Data collection
 
-In the current version, PulseHalo does not intentionally collect sensitive personal information on behalf of the developer, such as:
+In the current version, TAME PulseHalo does not intentionally collect sensitive personal information on behalf of the developer, such as:
 
 - location
 - contacts
@@ -42,7 +42,7 @@ The developer does not directly store your payment card information. Subscriptio
 
 ## 5. Data sharing
 
-In the current version, PulseHalo is not designed to sell personal information or share sensitive personal data with third parties for advertising purposes.
+In the current version, TAME PulseHalo is not designed to sell personal information or share sensitive personal data with third parties for advertising purposes.
 
 ## 6. Data retention
 
