@@ -10,7 +10,7 @@ TAME PulseHalo is an ambient nighttime utility app for mode management, timed pl
 
 TAME PulseHalo is intended to provide a general ambient nighttime utility experience.
 
-The app does not provide medical, legal, financial, or other regulated professional advice. It does not promise specific real-world outcomes and does not replace physical protection products, professional hardware, or professional services.
+The app does not provide medical, legal, financial, or other regulated professional advice. It does not promise guaranteed real-world outcomes and does not replace physical protection products, professional hardware, or professional services.
 
 ## 3. App behavior and experience
 

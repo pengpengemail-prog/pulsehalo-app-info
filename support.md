@@ -20,9 +20,9 @@ The app is intended to provide an organized and polished nighttime utility exper
 
 No. The current version does not require account creation or sign in to access the core experience.
 
-### Does the app make medical or outcome claims?
+### Does the app make medical or guaranteed claims?
 
-No. TAME PulseHalo is positioned as an ambient nighttime utility. It does not claim medical efficacy, certified scientific measurement, specific real-world outcomes, or replacement of physical protection products.
+No. TAME PulseHalo is positioned as an ambient nighttime utility. It does not claim medical efficacy, certified scientific measurement, guaranteed real-world outcomes, or replacement of physical protection products.
 
 ### How are subscriptions handled?
 
