@@ -1,28 +1,28 @@
 # Terms of Use for TAME PulseHalo
 
-Last updated: April 30, 2026
+Last updated: July 30, 2026
 
 ## 1. Service description
 
-TAME PulseHalo is an ambient nighttime utility app for mode management, timed playback, scene-based usage guidance, subscription access, and local usage records.
+TAME PulseHalo is an audio mode and timer utility for mode selection, timed playback, current-session planning suggestions, and Apple-managed Pro subscription access.
 
 ## 2. Intended use
 
-TAME PulseHalo is intended to provide a general ambient nighttime utility experience.
+TAME PulseHalo is intended to provide a general audio mode and timer experience.
 
-The app does not provide medical, legal, financial, or other regulated professional advice. It does not promise guaranteed real-world outcomes and does not replace physical protection products, professional hardware, or professional services.
+The app does not provide medical, legal, financial, pest-control, or other regulated professional advice. It does not promise specific real-world outcomes and does not replace physical protection products, professional hardware, or professional services.
 
 ## 3. App behavior and experience
 
-The app may present different sound-field presets, timer-based sessions, usage summaries, and scene guidance to help users organize their preferred nighttime routine.
+The app may present different audio presets, timer-based sessions, and planning suggestions to help users organize a preferred listening routine.
 
-Some descriptive content may be guidance-oriented or record-style in presentation and should not be interpreted as certified scientific measurement.
+Planning suggestions are derived from the current time, selected mode, and timer. They are not sensor measurements, stored history, or evidence that a mode produced a real-world result.
 
-## 4. Subscriptions and purchases
+## 4. Purchases
 
-TAME PulseHalo may offer auto-renewable subscriptions and non-consumable purchases through Apple's App Store.
+TAME PulseHalo may offer auto-renewable monthly and yearly subscriptions through Apple's App Store.
 
-Subscriptions are managed by Apple. Unless canceled at least 24 hours before the end of the current billing period, an auto-renewing subscription may renew automatically. You can manage or cancel subscriptions through your App Store account settings after purchase.
+Subscriptions are managed by Apple. Unless canceled at least 24 hours before the end of the current billing period, an auto-renewing subscription may renew automatically. You can manage or cancel subscriptions through your App Store account settings and restore eligible purchases inside the app.
 
 ## 5. Product changes
 
